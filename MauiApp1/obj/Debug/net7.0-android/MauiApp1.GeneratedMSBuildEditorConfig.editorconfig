@@ -12,45 +12,51 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MauiApp1
-build_property.ProjectDir = D:\ИСП\4_сем\MauiApp1\
+build_property.ProjectDir = C:\git_c#\ISP_TALAY\MauiApp1\
 
-[D:/ИСП/4_сем/MauiApp1/App.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/ИСП/4_сем/MauiApp1/AppShell.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/ИСП/4_сем/MauiApp1/Resources/Styles/Colors.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/DataBase.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.DataBase.xaml
+build_metadata.AdditionalFiles.TargetPath = DataBase.xaml
+build_metadata.AdditionalFiles.RelativePath = DataBase.xaml
+
+[C:/git_c\#/ISP_TALAY/MauiApp1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/ИСП/4_сем/MauiApp1/Resources/Styles/Styles.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/ИСП/4_сем/MauiApp1/View/CalculatorPage.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/View/CalculatorPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.View.CalculatorPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\CalculatorPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\CalculatorPage.xaml
 
-[D:/ИСП/4_сем/MauiApp1/View/MainPage.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
 
-[D:/ИСП/4_сем/MauiApp1/View/ProgressBarPage.xaml]
+[C:/git_c\#/ISP_TALAY/MauiApp1/View/ProgressBarPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.View.ProgressBarPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\ProgressBarPage.xaml
